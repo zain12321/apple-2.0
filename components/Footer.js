@@ -1,7 +1,7 @@
 
 function Footer() {
   return (
-    <div className="mt-14 bg-gray-100 mb-14 py-6 px-10 sm:px-24 md:px-44">
+    <div className="mt-14 bg-gray-100 py-6 px-10 sm:px-24 md:px-44">
         <div className="border-b border-[#c7c7cc] pb-4">
          <p className="text-[13px] footer-text leading-7 ">
          1. iPhone 8 or later users may subscribe without an Apple Watch later this fall.
