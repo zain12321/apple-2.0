@@ -159,3 +159,15 @@ color: #6E6E73;
         display: none;
   }
 }
+
+
+
+.footer-link:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+a:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
